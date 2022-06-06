@@ -16,4 +16,5 @@ The business case for the Surf and Ice Cream Shop in Oahu is reliant on whether 
 The temperature conditions required to open a surf and ice cream shop for the island of Oahu are very consistent. Opening a shop based solely on temperature data is very risky from a business standpoint. I would advise the following are taken into consideration as well:
 - A wave analysis taking into account waters that do not meet recommended surf requirements as well as dangerous outliers. 
 - A precipitation analysis similar to the following to determine the potential need for indoor seating regarding ice cream sales. 
+
 ![Image of Precipitation by Month](<./analysis/PrecipitationSum.png>) 
